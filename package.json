@@ -1,0 +1,34 @@
+{
+  "name": "metaverse-checknplay",
+  "version": "1.0.0",
+  "description": "Check and play with ease, exploring new virtual worlds and experiences effortlessly.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ir0nm4n42/metaverse-checknplay"
+  },
+  "author": "ir0nm4n42",
+  "license": "MIT",
+  "dependencies": {
+    "metaverse-checknplay": "1.0.0",
+    "metaverse-checknplay-expander": "1.0.0",
+    "axios": "1.0.0",
+    "validator": "1.0.0",
+    "jest": "1.0.0",
+    "request": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "moment": "1.0.0",
+    "express": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "react-dom": "1.0.0",
+    "multer": "1.0.0",
+    "web3-utils": "1.0.0",
+    "cheerio": "1.0.0",
+    "bluebird": "1.0.0",
+    "mongoose": "1.0.0",
+    "body-parser": "1.0.0"
+  }
+}
